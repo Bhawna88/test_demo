@@ -1,1 +1,1 @@
-hello github
+hello github. I'm familiarising with git and github.
